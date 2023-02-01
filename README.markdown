@@ -5,6 +5,8 @@
 It works with the new TOR port 9150  
 
 #### TORS HAMMER HOW TO  
+
+# Mod By SanthM, Fix New Python Versions Bug
 ----------------------------------------------------
 ```console
 python torshammer.py
